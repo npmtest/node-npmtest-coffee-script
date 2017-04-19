@@ -1,6 +1,6 @@
 # npmtest-coffee-script
 
-#### test coverage for  [coffee-script (v1.12.5)](http://coffeescript.org)  [![npm package](https://img.shields.io/npm/v/npmtest-coffee-script.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-coffee-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-coffee-script.svg)](https://travis-ci.org/npmtest/node-npmtest-coffee-script)
+#### basic test coverage for  [coffee-script (v1.12.5)](http://coffeescript.org)  [![npm package](https://img.shields.io/npm/v/npmtest-coffee-script.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-coffee-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-coffee-script.svg)](https://travis-ci.org/npmtest/node-npmtest-coffee-script)
 
 #### Unfancy JavaScript
 
